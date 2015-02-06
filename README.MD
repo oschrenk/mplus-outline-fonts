@@ -1,82 +1,99 @@
-M+ FONTS                                Copyright (C) 2002-2014 M+ FONTS PROJECT
+# M+ FONTS
 
--
+Copyright (C) 2002-2014 M+ FONTS PROJECT
 
-README_E
-
-
-
-
-M+ TESTFLIGHT
+## M+ TESTFLIGHT
 
 The M+ OUTLINE FONTS are distributed with proportional Latin (4 variations), fixed-halfwidth Latin (3 variations) and fixed-fullwidth Japanese (2 Kana variations) character set. 7 weights from Thin to Black are included, but fixed-halfwidth Latin with 5 weights from Thin to Bold.
 
+### PROPORTIONAL FONTS (proportional Latin and fixed-fullwidth Japanese)
 
-PROPORTIONAL FONTS (proportional Latin and fixed-fullwidth Japanese)
+M+ P is aimed as sophisticated and relaxed design, while M+ C is optimized to be proportioned well in typesetting. Each have 2 variations: Type-1 (M+ P Type-1, M+ C Type-1) are intended to use with M+ 1 Japanese glyphs; Type-2 (M+ P Type-2, M+ C Type-2) has several altenative glyphs different from Type-1 to match with the design of M+ 2 Japanese glyphs.
 
-M+ 1P     mplus-1p-thin.ttf
-          mplus-1p-light.ttf
-          mplus-1p-regular.ttf
-          mplus-1p-medium.ttf
-          mplus-1p-bold.ttf
-          mplus-1p-heavy.ttf
-          mplus-1p-black.ttf
+#### M+ 1P
 
-M+ 2P     mplus-2p-thin.ttf
-          mplus-2p-light.ttf
-          mplus-2p-regular.ttf
-          mplus-2p-medium.ttf
-          mplus-2p-bold.ttf
-          mplus-2p-heavy.ttf
-          mplus-2p-black.ttf
+The combination of fixed-fullwidth M+ 1 for Japanese and proportional M+ P Type-1 for alphabets. They are 7 weights from Thin to Black.
 
-M+ 1C     mplus-1c-thin.ttf
-          mplus-1c-light.ttf
-          mplus-1c-regular.ttf
-          mplus-1c-medium.ttf
-          mplus-1c-bold.ttf
-          mplus-1c-heavy.ttf
-          mplus-1c-black.ttf
+- `mplus-1p-thin.ttf`
+- `mplus-1p-light.ttf`
+- `mplus-1p-regular.ttf`
+- `mplus-1p-medium.ttf`
+- `mplus-1p-bold.ttf`
+- `mplus-1p-heavy.ttf`
+- `mplus-1p-black.ttf`
 
-M+ 2C     mplus-2c-thin.ttf
-          mplus-2c-light.ttf
-          mplus-2c-regular.ttf
-          mplus-2c-medium.ttf
-          mplus-2c-bold.ttf
-          mplus-2c-heavy.ttf
-          mplus-2c-black.ttf
+#### M+ 2P
 
+The combination of fixed-fullwidth M+ 2 for Japanese and proportional M+ P Type-2 for alphabets. They are 7 weights from Thin to Black.
 
-FIXED-WIDTH FONTS (fixed-halfwidth Latin and fixed-fullwidth Japanese)
+- `mplus-2p-thin.ttf`
+- `mplus-2p-light.ttf`
+- `mplus-2p-regular.ttf`
+- `mplus-2p-medium.ttf`
+- `mplus-2p-bold.ttf`
+- `mplus-2p-heavy.ttf`
+- `mplus-2p-black.ttf`
 
-M+ 1M     mplus-1m-thin.ttf
-          mplus-1m-light.ttf
-          mplus-1m-regular.ttf
-          mplus-1m-medium.ttf
-          mplus-1m-bold.ttf
+#### M+ 1C
 
-M+ 2M     mplus-2m-thin.ttf
-          mplus-2m-light.ttf
-          mplus-2m-regular.ttf
-          mplus-2m-medium.ttf
-          mplus-2m-bold.ttf
+The combination of fixed-fullwidth M+ 1 for Japanese and proportional M+ C Type-1 for alphabets. They are 7 weights from Thin to Black.
 
-M+ 1MN    mplus-1mn-thin.ttf
-          mplus-1mn-light.ttf
-          mplus-1mn-regular.ttf
-          mplus-1mn-medium.ttf
-          mplus-1mn-bold.ttf
+- `mplus-1c-thin.ttf`
+- `mplus-1c-light.ttf`
+- `mplus-1c-regular.ttf`
+- `mplus-1c-medium.ttf`
+- `mplus-1c-bold.ttf`
+- `mplus-1c-heavy.ttf`
+- `mplus-1c-black.ttf`
 
+#### M+ 2C
 
+The combination of fixed-fullwidth M+ 2 for Japanese and proportional M+ C Type-2 for alphabets. They are 7 weights from Thin to Black.
 
+- `mplus-2c-thin.ttf`
+- `mplus-2c-light.ttf`
+- `mplus-2c-regular.ttf`
+- `mplus-2c-medium.ttf`
+- `mplus-2c-bold.ttf`
+- `mplus-2c-heavy.ttf`
+- `mplus-2c-black.ttf`
 
--
+### FIXED-WIDTH FONTS (fixed-halfwidth Latin and fixed-fullwidth Japanese)
 
-M+ OUTLINE FONTS
-http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/
+M+ M emphasize the balance of natural letterform and high legibility. while M+ MN is aimed at a new distinctive design for a terminal font specialized to programming. There are 3 variations: M+ M Type-1 and M+ MN Type-1 are intended to use with M+ 1 Japanese glyphs; M+ M Type-2 has several altenative glyphs different from Type-1 to match with the design of M+ 2 Japanese glyphs.
 
-mplus-fonts-dev ML
-http://lists.sourceforge.jp/mailman/listinfo/mplus-fonts-dev
+#### M+ 1M
 
-M+ FONTS open forum
-http://sourceforge.jp/forum/forum.php?forum_id=3403
+The combination of fixed-fullwidth M+ 1 for Japanese and fixed-halfwidth M+ M Type-1 for alphabets. They are 5 weights from Thin to Bold.
+
+- `mplus-1m-thin.ttf`
+- `mplus-1m-light.ttf`
+- `mplus-1m-regular.ttf`
+- `mplus-1m-medium.ttf`
+- `mplus-1m-bold.ttf`
+
+#### M+ 2M
+
+The combination of fixed-fullwidth M+ 2 for Japanese and fixed-halfwidth M+ M Type-2 for alphabets. They are 5 weights from Thin to Bold.
+
+- `mplus-2m-thin.ttf`
+- `mplus-2m-light.ttf`
+- `mplus-2m-regular.ttf`
+- `mplus-2m-medium.ttf`
+- `mplus-2m-bold.ttf`
+
+#### M+ 1MN
+
+The combination of fixed-fullwidth M+ 1 for Japanese and fixed-halfwidth M+ MN Type-1 for alphabets. They are 5 weights from Thin to Bold.
+
+- `mplus-1mn-thin.ttf`
+- `mplus-1mn-light.ttf`
+- `mplus-1mn-regular.ttf`
+- `mplus-1mn-medium.ttf`
+- `mplus-1mn-bold.ttf`
+
+## Links
+
+- [M+ OUTLINE FONTS](http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/)
+- [mplus-fonts-dev ML](http://lists.sourceforge.jp/mailman/listinfo/mplus-fonts-dev)
+- [M+ FONTS open forum]( http://sourceforge.jp/forum/forum.php?forum_id=3403)
